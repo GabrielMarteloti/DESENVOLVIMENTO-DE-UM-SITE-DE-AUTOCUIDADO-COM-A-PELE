@@ -1,0 +1,76 @@
+[21-Sep-2024 00:04:58 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[21-Sep-2024 00:04:58 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[22-Sep-2024 20:40:58 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 460
+[22-Sep-2024 20:43:04 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 460
+[22-Sep-2024 20:45:09 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 447
+[25-Sep-2024 00:31:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[25-Sep-2024 00:31:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[26-Sep-2024 00:50:28 UTC] PHP Warning:  Undefined property: stdClass::$id in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 675
+[26-Sep-2024 00:50:28 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 678
+[28-Sep-2024 00:57:40 UTC] PHP Warning:  Undefined property: stdClass::$id in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 675
+[28-Sep-2024 00:57:40 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 678
+[28-Sep-2024 01:54:14 UTC] PHP Warning:  Undefined property: stdClass::$id in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 675
+[28-Sep-2024 01:54:14 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 678
+[30-Sep-2024 12:21:18 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wpuu_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-33252fae38e9171abc43fb52b74ff2fb' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[01-Oct-2024 13:18:19 UTC] PHP Warning:  Undefined property: stdClass::$id in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 675
+[01-Oct-2024 13:18:19 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 678
+[02-Oct-2024 00:45:37 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 447
+[02-Oct-2024 00:52:41 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 447
+[08-Oct-2024 11:22:05 UTC] PHP Warning:  Undefined property: stdClass::$id in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 675
+[08-Oct-2024 11:22:05 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 678
+[09-Oct-2024 00:06:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 579
+[09-Oct-2024 00:06:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 587
+[09-Oct-2024 00:06:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 609
+[09-Oct-2024 00:06:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 614
+[09-Oct-2024 00:06:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 386
+[09-Oct-2024 01:44:34 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 709
+[09-Oct-2024 01:47:46 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 579
+[09-Oct-2024 01:47:46 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 587
+[09-Oct-2024 01:47:46 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 609
+[09-Oct-2024 01:47:46 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 614
+[09-Oct-2024 01:47:46 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 386
+[11-Oct-2024 00:26:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wpuu_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-33252fae38e9171abc43fb52b74ff2fb' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[16-Oct-2024 00:08:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 579
+[16-Oct-2024 00:08:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 587
+[16-Oct-2024 00:08:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 609
+[16-Oct-2024 00:08:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 614
+[16-Oct-2024 00:08:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$source in /home1/dermad87/public_html/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php on line 386
+[24-Oct-2024 00:11:55 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wpuu_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-33252fae38e9171abc43fb52b74ff2fb' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[24-Oct-2024 00:11:55 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wpuu_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-33252fae38e9171abc43fb52b74ff2fb' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[12-Nov-2024 19:48:46 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query 
+INSERT INTO wpuu_actionscheduler_actions ( `hook`, `status`, `scheduled_date_gmt`, `scheduled_date_local`, `schedule`, `group_id`, `priority`, `args` )
+SELECT 'forminator_daily_cron', 'pending', '2024-11-13 20:48:46', '2024-11-13 20:48:46', 'O:30:\"ActionScheduler_SimpleSchedule\":2:{s:22:\"\0*\0scheduled_timestamp\";i:1731530926;s:41:\"\0ActionScheduler_SimpleSchedule\0timestamp\";i:1731530926;}', 6, 10, '[]' FROM DUAL
+WHERE ( 
+SELECT action_id FROM wpuu_actionscheduler_actions
+WHERE status IN ( 'pending', 'in-progress' )
+AND hook = 'forminator_daily_cron'
+AND `group_id` = 6
+ LIMIT 1 ) IS NULL made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Forminator_Fields->schedule_forminator_daily_cron, as_schedule_single_action, ActionScheduler_ActionFactory->create, ActionScheduler_ActionFactory->store_unique_action, ActionScheduler_DBStore->save_unique_action, ActionScheduler_DBStore->save_action_to_db
+[23-Nov-2024 17:18:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/dermad87/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/dermad87/public_html/wp-settings.php on line 33
+[04-Dec-2024 22:53:22 UTC] PHP Fatal error:  Uncaught Error: Non-static method NewfoldLabs\WP\Module\Data\Helpers\Plugin::collect() cannot be called statically in /home1/dermad87/public_html/wp-content/plugins/wp-plugin-hostgator/vendor/newfold-labs/wp-module-data/includes/Listeners/Plugin.php:145
+Stack trace:
+#0 /home1/dermad87/public_html/wp-content/plugins/wp-plugin-hostgator/vendor/newfold-labs/wp-module-data/includes/Listeners/Plugin.php(124): NewfoldLabs\WP\Module\Data\Listeners\Plugin->updated(Array)
+#1 /home1/dermad87/public_html/wp-includes/class-wp-hook.php(324): NewfoldLabs\WP\Module\Data\Listeners\Plugin->installed_or_updated(Object(Plugin_Upgrader), Array)
+#2 /home1/dermad87/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/dermad87/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home1/dermad87/public_html/wp-admin/includes/class-wp-upgrader.php(984): do_action('upgrader_proces...', Object(Plugin_Upgrader), Array)
+#5 /home1/dermad87/public_html/wp-admin/includes/class-plugin-upgrader.php(224): WP_Upgrader->run(Array)
+#6 /home1/dermad87/public_html/wp-admin/includes/class-wp-automatic-updater.php(478): Plugin_Upgrader->upgrade('wp-plugin-hostg...', Array)
+#7 /home1/dermad87/public_html/wp-admin/includes/class-wp-automatic-updater.php(676): WP_Automatic_Updater->update('plugin', Object(stdClass))
+#8 /home1/dermad87/public_html/wp-includes/update.php(851): WP_Automatic_Updater->run()
+#9 /home1/dermad87/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#10 /home1/dermad87/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#11 /home1/dermad87/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#12 /home1/dermad87/public_html/wp-includes/update.php(295): do_action('wp_maybe_auto_u...')
+#13 /home1/dermad87/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#14 /home1/dermad87/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#15 /home1/dermad87/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#16 /home1/dermad87/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#17 {main}
+  thrown in /home1/dermad87/public_html/wp-content/plugins/wp-plugin-hostgator/vendor/newfold-labs/wp-module-data/includes/Listeners/Plugin.php on line 145
+[05-Dec-2024 13:40:19 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 470
+[05-Dec-2024 13:41:21 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 457
+[05-Dec-2024 14:05:21 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/dermad87/public_html/wp-includes/class-wp-image-editor-imagick.php on line 470
